@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-forms-steps/static/css/main.61e80ee7.chunk.css",
+    "main.js": "/ra-forms-steps/static/js/main.1d500c87.chunk.js",
+    "main.js.map": "/ra-forms-steps/static/js/main.1d500c87.chunk.js.map",
+    "runtime-main.js": "/ra-forms-steps/static/js/runtime-main.950d152b.js",
+    "runtime-main.js.map": "/ra-forms-steps/static/js/runtime-main.950d152b.js.map",
+    "static/js/2.87db1e9f.chunk.js": "/ra-forms-steps/static/js/2.87db1e9f.chunk.js",
+    "static/js/2.87db1e9f.chunk.js.map": "/ra-forms-steps/static/js/2.87db1e9f.chunk.js.map",
+    "static/js/3.40a00c18.chunk.js": "/ra-forms-steps/static/js/3.40a00c18.chunk.js",
+    "static/js/3.40a00c18.chunk.js.map": "/ra-forms-steps/static/js/3.40a00c18.chunk.js.map",
+    "index.html": "/ra-forms-steps/index.html",
+    "static/css/main.61e80ee7.chunk.css.map": "/ra-forms-steps/static/css/main.61e80ee7.chunk.css.map",
+    "static/js/2.87db1e9f.chunk.js.LICENSE.txt": "/ra-forms-steps/static/js/2.87db1e9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.950d152b.js",
+    "static/js/2.87db1e9f.chunk.js",
+    "static/css/main.61e80ee7.chunk.css",
+    "static/js/main.1d500c87.chunk.js"
+  ]
+}
